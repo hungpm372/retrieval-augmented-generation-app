@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "retrieval-augmented-generation-app"
+version = "0.1.0"
+description = ""
+authors = ["hungpm372 <hungpm372@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+python-dotenv = "^1.0.1"
+langchain = "^0.2.6"
+langchain-community = "^0.2.6"
+langchain-chroma = "^0.1.1"
+langchain-openai = "^0.1.10"
+bs4 = "^0.0.2"
+langchainhub = "^0.1.20"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
