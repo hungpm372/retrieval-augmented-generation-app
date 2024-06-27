@@ -45,5 +45,14 @@ rag_chain = (
         | StrOutputParser()
 )
 
-result = rag_chain.invoke("Đội nào thua?")
-print(result)
+# result = rag_chain.invoke("Đội nào thua?")
+# print(result)
+
+while True:
+    question = input("Enter your question: ")
+
+    print("Answer: ", end="", flush=True)
+
+    for chunk in rag_chain.stream(question):
+        print(chunk, end="", flush=True)
+    print()
