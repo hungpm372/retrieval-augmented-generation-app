@@ -1,0 +1,32 @@
+How to Start with Runnow.io:
+
+Download Runnow.io App:
+
+Visit the official Runnow.io website or app store to download the Runnow.io App.
+Sign-up for Runnow.io:
+
+Open the app and sign up for a Runnow.io account.
+Connect your Wallet. You can use your Metamask wallet or other supported wallets.
+Navigate to your Account settings and update your email and password. You'll need these credentials to log in to the Runnow.io app on your devices.
+Purchase your NFTs:
+
+Visit the marketplace within the app to buy NFTs of your choice.
+There is a limit of 10,000 NFTs per type.
+Utilize the Filter tool to search for a specific NFT type that suits your preference.
+Transfer your NFTs to your app:
+
+To use NFTs in the app, you must transfer them into the app.
+Access your Account on the marketplace, where you'll find all the NFTs you've purchased, as well as NFT boxes.
+Start transferring them into the app by using the "Bring To Game" button.
+Log-in to your app and start your journey:
+
+You're now ready to begin! Log in to the Runnow.io app using your email and password (or OTP code).
+Equip yourself with NFTs from your in-app inventory.
+Select a game mode and embark on your fitness journey with Runnow.io.
+Note:
+
+Every day, you'll have a certain amount of Energy to participate in running, referred to as ENERGY (Max 12/day), and they will be restored 4 times in 24 hours.
+If you have at least 3 energy, you can start running. You can run 4 times or wait for 12 energy to run once.
+If you want to recover faster, you can purchase energy to shorten the recovery time.
+It's important not to overexert yourself as overtraining can be harmful to your health, so it's recommended to monitor your health during your fitness journey.
+These steps should help you get started with Runnow.io and make the most of the app's features.
