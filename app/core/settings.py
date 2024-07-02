@@ -24,7 +24,7 @@ class Settings(BaseSettings):
     POSTGRESQL_PASS: str = os.environ.get("POSTGRESQL_PASSWORD", 'secret')
     POSTGRESQL_PORT: int = int(os.environ.get("POSTGRESQL_PORT", 5432))
     POSTGRESQL_DB: str = os.environ.get("POSTGRESQL_DB", 'fastapi')
-    DATABASE_URI: str = f"postgresql+asyncpg://{POSTGRESQL_USER}:{POSTGRESQL_PASS}@{POSTGRESQL_HOST}:{POSTGRESQL_PORT}/{POSTGRESQL_DB}"
+    DATABASE_URI: str = f"postgresql://{POSTGRESQL_USER}:{POSTGRESQL_PASS}@{POSTGRESQL_HOST}:{POSTGRESQL_PORT}/{POSTGRESQL_DB}"
 
     # App Secret Key
     SECRET_KEY: str = os.environ.get("SECRET_KEY", "8deadce9449770680910741063cd0a3fe0acb62a8978661f421bbcbb66dc41f1")
