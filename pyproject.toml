@@ -19,6 +19,8 @@ unstructured = "^0.14.9"
 psutil = "^6.0.0"
 langserve = {extras = ["all"], version = "^0.2.2"}
 fastapi = {extras = ["all"], version = "^0.111.0"}
+langchain-postgres = "^0.0.9"
+psycopg2-binary = "^2.9.9"
 
 
 [build-system]
