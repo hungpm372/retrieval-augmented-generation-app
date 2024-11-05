@@ -21,6 +21,8 @@ langserve = {extras = ["all"], version = "^0.2.2"}
 fastapi = {extras = ["all"], version = "^0.111.0"}
 langchain-postgres = "^0.0.9"
 psycopg2-binary = "^2.9.9"
+psycopg = {extras = ["binary", "pool"], version = "^3.2.3"}
+nltk = "^3.9.1"
 
 
 [build-system]

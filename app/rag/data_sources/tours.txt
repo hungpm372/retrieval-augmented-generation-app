@@ -1,0 +1,99 @@
+1. Tour Hà Nội - Hạ Long 3 ngày 2 đêm
+   Mô tả: Tham quan vịnh Hạ Long với cảnh đẹp thiên nhiên, tham gia các hoạt động trên thuyền.
+   Giá: 3,500,000 VND
+   Lịch trình: Ngày 1: Khởi hành từ Hà Nội. Ngày 2: Du ngoạn vịnh Hạ Long. Ngày 3: Tham quan chợ địa phương, về Hà Nội.
+
+2. Tour Đà Nẵng - Bà Nà Hills 4 ngày 3 đêm
+   Mô tả: Khám phá thành phố Đà Nẵng sôi động và vẻ đẹp kỳ vĩ của Bà Nà Hills.
+   Giá: 5,000,000 VND
+   Lịch trình: Ngày 1: Tham quan bãi biển Mỹ Khê. Ngày 2: Khám phá Bà Nà Hills. Ngày 3: Tham quan Ngũ Hành Sơn và Hội An. Ngày 4: Thư giãn tại Đà Nẵng.
+
+3. Tour Sapa - Thung lũng Mường Hoa 2 ngày 1 đêm
+   Mô tả: Tham quan và trải nghiệm văn hóa tại Sapa.
+   Giá: 2,800,000 VND
+   Lịch trình: Ngày 1: Tham quan nhà thờ đá Sapa. Ngày 2: Trekking thung lũng Mường Hoa.
+
+4. Tour Phú Quốc 5 ngày 4 đêm
+   Mô tả: Khám phá thiên đường biển đảo Phú Quốc.
+   Giá: 6,500,000 VND
+   Lịch trình: Ngày 1: Tham quan vườn tiêu. Ngày 2: Tắm biển Bãi Sao. Ngày 3: Tham quan Vinpearl Safari. Ngày 4: Chợ đêm Dinh Cậu. Ngày 5: Tự do nghỉ ngơi.
+
+5. Tour Nha Trang - VinWonders 3 ngày 2 đêm
+   Mô tả: Tham quan các địa danh nổi tiếng tại Nha Trang.
+   Giá: 3,200,000 VND
+   Lịch trình: Ngày 1: Tham quan Tháp Bà Ponagar. Ngày 2: VinWonders Nha Trang. Ngày 3: Tự do mua sắm.
+
+6. Tour Huế - Đại Nội 2 ngày 1 đêm
+   Mô tả: Khám phá cố đô Huế và các di tích lịch sử.
+   Giá: 2,000,000 VND
+   Lịch trình: Ngày 1: Tham quan Đại Nội. Ngày 2: Tham quan lăng Khải Định và chùa Thiên Mụ.
+
+7. Tour Cần Thơ - Chợ nổi Cái Răng 2 ngày 1 đêm
+   Mô tả: Trải nghiệm miền Tây sông nước và chợ nổi.
+   Giá: 1,800,000 VND
+   Lịch trình: Ngày 1: Tham quan vườn trái cây. Ngày 2: Thăm chợ nổi Cái Răng.
+
+8. Tour Đà Lạt - Thành phố ngàn hoa 3 ngày 2 đêm
+   Mô tả: Khám phá Đà Lạt lãng mạn và thơ mộng.
+   Giá: 3,000,000 VND
+   Lịch trình: Ngày 1: Thung lũng Tình Yêu. Ngày 2: Nhà thờ Domaine de Marie. Ngày 3: Thác Datanla.
+
+9. Tour Hà Giang - Cột cờ Lũng Cú 3 ngày 2 đêm
+   Mô tả: Tham quan vùng đất địa đầu tổ quốc.
+   Giá: 4,200,000 VND
+   Lịch trình: Ngày 1: Đèo Mã Pí Lèng. Ngày 2: Cột cờ Lũng Cú. Ngày 3: Chợ phiên Đồng Văn.
+
+10. Tour Quảng Bình - Động Phong Nha 2 ngày 1 đêm
+    Mô tả: Khám phá hang động kỳ vĩ của Việt Nam.
+    Giá: 2,500,000 VND
+    Lịch trình: Ngày 1: Tham quan động Phong Nha. Ngày 2: Động Thiên Đường.
+
+11. Tour Sa Đéc - Làng hoa 1 ngày
+    Mô tả: Tham quan làng hoa nổi tiếng của Sa Đéc.
+    Giá: 900,000 VND
+    Lịch trình: Tham quan làng hoa Sa Đéc, chụp ảnh và mua sắm.
+
+12. Tour Bình Thuận - Mũi Né 3 ngày 2 đêm
+    Mô tả: Khám phá cồn cát vàng và bãi biển xanh.
+    Giá: 3,200,000 VND
+    Lịch trình: Ngày 1: Bãi đá Ông Địa. Ngày 2: Đồi cát bay. Ngày 3: Làng chài Mũi Né.
+
+13. Tour Quảng Ninh - Yên Tử 1 ngày
+    Mô tả: Trải nghiệm hành trình tâm linh tại Yên Tử.
+    Giá: 1,200,000 VND
+    Lịch trình: Leo núi Yên Tử, viếng chùa Hoa Yên.
+
+14. Tour Tây Nguyên - Buôn Ma Thuột 3 ngày 2 đêm
+    Mô tả: Khám phá văn hóa cồng chiêng Tây Nguyên.
+    Giá: 3,800,000 VND
+    Lịch trình: Ngày 1: Bảo tàng cà phê. Ngày 2: Thác Dray Nur. Ngày 3: Làng cà phê Trung Nguyên.
+
+15. Tour Vũng Tàu 2 ngày 1 đêm
+    Mô tả: Tham quan biển Vũng Tàu với các hoạt động biển.
+    Giá: 1,500,000 VND
+    Lịch trình: Ngày 1: Bãi Sau Vũng Tàu. Ngày 2: Tượng Chúa Kitô.
+
+16. Tour miền Tây - Tham quan các tỉnh 4 ngày 3 đêm
+    Mô tả: Khám phá các tỉnh miền Tây và văn hóa sông nước.
+    Giá: 4,800,000 VND
+    Lịch trình: Ngày 1: Tiền Giang. Ngày 2: Bến Tre. Ngày 3: Cần Thơ. Ngày 4: Sóc Trăng.
+
+17. Tour Bình Định - Quy Nhơn 3 ngày 2 đêm
+    Mô tả: Tham quan thành phố biển Quy Nhơn.
+    Giá: 3,300,000 VND
+    Lịch trình: Ngày 1: Eo Gió. Ngày 2: Ghềnh Ráng Tiên Sa. Ngày 3: Tháp đôi Chăm Pa.
+
+18. Tour Ninh Bình - Tràng An 2 ngày 1 đêm
+    Mô tả: Trải nghiệm thiên nhiên kỳ vĩ tại Tràng An.
+    Giá: 2,200,000 VND
+    Lịch trình: Ngày 1: Tham quan khu du lịch Tràng An. Ngày 2: Chùa Bái Đính.
+
+19. Tour Bắc Ninh - Đền Đô 1 ngày
+    Mô tả: Tham quan đền thờ nhà Lý tại Bắc Ninh.
+    Giá: 700,000 VND
+    Lịch trình: Viếng thăm Đền Đô và tìm hiểu văn hóa.
+
+20. Tour Sơn La - Mộc Châu 2 ngày 1 đêm
+    Mô tả: Khám phá cao nguyên Mộc Châu.
+    Giá: 2,400,000 VND
+    Lịch trình: Ngày 1: Đồi chè trái tim. Ngày 2: Thác Dải Yếm.

@@ -20,10 +20,10 @@ class Settings(BaseSettings):
 
     # Postgresql Database Config
     POSTGRESQL_HOST: str = os.environ.get("POSTGRESQL_HOST", 'localhost')
-    POSTGRESQL_USER: str = os.environ.get("POSTGRESQL_USER", 'root')
-    POSTGRESQL_PASS: str = os.environ.get("POSTGRESQL_PASSWORD", 'secret')
-    POSTGRESQL_PORT: int = int(os.environ.get("POSTGRESQL_PORT", 5432))
-    POSTGRESQL_DB: str = os.environ.get("POSTGRESQL_DB", 'fastapi')
+    POSTGRESQL_USER: str = os.environ.get("POSTGRESQL_USER", 'postgres')
+    POSTGRESQL_PASS: str = os.environ.get("POSTGRESQL_PASSWORD", 'hung12345')
+    POSTGRESQL_PORT: int = int(os.environ.get("POSTGRESQL_PORT", 5431))
+    POSTGRESQL_DB: str = os.environ.get("POSTGRESQL_DB", 'rag-app')
     DATABASE_URI: str = f"postgresql://{POSTGRESQL_USER}:{POSTGRESQL_PASS}@{POSTGRESQL_HOST}:{POSTGRESQL_PORT}/{POSTGRESQL_DB}"
 
     # App Secret Key

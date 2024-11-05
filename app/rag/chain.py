@@ -10,20 +10,19 @@ from app.rag.llm import llm
 from app.rag.vectorstore import retriever
 
 system_prompt = (
-    "You are an assistant for question-answering tasks. "
-    "Use the following pieces of retrieved context to answer "
-    "the question. If you don't know the answer, say that you "
-    "biết chết liền. Use three sentences maximum and keep the "
-    "answer concise."
+    "Bạn là trợ lý hỗ trợ đặt tour du lịch. "
+    "Sử dụng các thông tin có sẵn sau đây để trả lời câu hỏi "
+    "một cách chính xác. Nếu không biết câu trả lời, hãy nói rằng "
+    "Tôi không biết. Trả lời tối đa ba câu và giữ cho câu trả lời ngắn gọn."
     "\n\n"
     "{context}"
 )
 
 contextualize_q_system_prompt = (
-    "You are an assistant for question-answering tasks. "
-    "Use the following pieces of retrieved context to answer "
-    "the question. If you don't know the answer, say that you "
-    "biết chết liền. Use three sentences maximum and keep the "
+    "Bạn là trợ lý hỗ trợ đặt tour du lịch. "
+    "Sử dụng các thông tin có sẵn sau đây để trả lời câu hỏi "
+    "một cách chính xác. Nếu không biết câu trả lời, hãy nói rằng "
+    "Tôi không biết. Trả lời tối đa ba câu và giữ cho câu trả lời ngắn gọn."
     "answer concise."
 )
 
